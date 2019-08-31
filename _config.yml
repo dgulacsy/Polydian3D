@@ -1,7 +1,7 @@
 # Site
 name: "Polydian 3D"
 title: ""
-description: "Jekyll Theme for Blogging"
+description: "3D Printing on demand."
 meta_description: "Jekyll theme for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -15,8 +15,8 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Dominik Gulácsy
+    display_name: Dominik
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: polydian3D@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/

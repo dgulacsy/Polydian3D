@@ -352,11 +352,11 @@ span.post-name a,span.post-read-more a:hover {
 .intro h2 {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    color: #fff;
+    color: #888;
     line-height: 1.6;
 }
 .wrapintro {
-    background: #fff;
+    background: #888;
     width: 700px;
     padding: 3rem;
     max-width: 90%;
